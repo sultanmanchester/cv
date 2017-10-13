@@ -1710,6 +1710,33 @@ body {
 .cid-qxXa0KwD6p .progress_value span {
   padding-left: 30px;
 }
+.cid-qxXdgLGMol {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qxXdgLGMol .title {
+  margin-bottom: 2rem;
+}
+.cid-qxXdgLGMol .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qxXdgLGMol a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qxXdgLGMol a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qxXdgLGMol .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qxXdgLGMol .input-group-btn {
+  display: block;
+  text-align: center;
+}
 .cid-qxX6Icbq7F .navbar {
   background: #ffffff;
   transition: none;
